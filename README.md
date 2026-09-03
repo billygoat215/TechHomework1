@@ -1,2 +1,4 @@
 # TechHomework1
-This is my first change ever here!!!!
+
+This is the MAIN VERSION NOW AFTER I FORGOT TO SCREENSHOT
+
