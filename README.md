@@ -1,2 +1,4 @@
 # TechHomework1
-This is my first change ever here!!!!
+
+Changing readme again after I forgot to screenshot lol
+
